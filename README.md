@@ -12,8 +12,6 @@
 * FTP Backdoor >>  VSFTPD v2.3.4 backdoor command execution
 * IP Cameras   >>  exploit cctv cameras 
 
-<img src="https://github.com/AnonymousAt3/cyberdoor/blob/main/screenshot/cyberdoor.png">
-
 # Android 
 This module uses the Metasploit framework built into Kali Linux to create and Android apk that will allow a back door into the users phone. 
 # Windows
@@ -54,7 +52,3 @@ How to find vulnerable webcams with the help of Shodan and Metasploit framework.
      $ ./uninstaller.sh
 
 --------------------------------
-     
-     
-#This Script Was Made By @cyberghost
-
